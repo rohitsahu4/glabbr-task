@@ -15,7 +15,7 @@ export default function ({product, discount}) {
             <div className={"amount"}>
                 <span className={"currency-symbol"}>{product.currencySymbol}</span>
                 <strong className={"price"}>{price}</strong>
-                <span className={"per-month"}>{"month"}</span>
+                <span className={"per-month"}>{"/month"}</span>
             </div>
             <Features features={product.features}/>
         </div>
