@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/glabbr-task/precache-manifest.a90c2bb247577a4f36b4e175fa91a30f.js"
+  "/glabbr-task/precache-manifest.1e78331790121019971ecdd7d44acec0.js"
 );
 
 self.addEventListener('message', (event) => {

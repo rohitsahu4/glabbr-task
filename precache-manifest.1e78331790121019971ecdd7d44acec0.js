@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b71e6de4172b58807111c5d69db3ede",
+    "revision": "9f78527a3fcd2de3181b4f7579ddf1ba",
     "url": "/glabbr-task/index.html"
   },
   {
-    "revision": "008cfb6c718ee7f7832b",
+    "revision": "549fcbd32bc727072997",
     "url": "/glabbr-task/static/css/main.9946af78.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/glabbr-task/static/js/2.b2f84329.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "008cfb6c718ee7f7832b",
-    "url": "/glabbr-task/static/js/main.7f0433e2.chunk.js"
+    "revision": "549fcbd32bc727072997",
+    "url": "/glabbr-task/static/js/main.d5196710.chunk.js"
   },
   {
     "revision": "a38b8dc8f0b429d4ee1d",
