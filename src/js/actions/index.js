@@ -7,7 +7,7 @@ export function setProducts(payload) {
 
 export function loadProducts() {
     return (dispatch) => {
-        return axios.get("http://www.mocky.io/v2/5e3156863200007200888450")
+        return axios.get("https://www.mocky.io/v2/5e3156863200007200888450")
             .then(response => {
                 dispatch(setProducts(response.data.plans));
                 return Promise.resolve()

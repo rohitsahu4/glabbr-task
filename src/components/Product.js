@@ -3,7 +3,6 @@ import "../css/Product.css"
 import Features from "./Features"
 import AtomIcon from "./AtomIcon"
 export default function ({product, discount}) {
-    console.log(product,discount)
     //Calculating the final monthly price with discount
     const price = Math.round((product.amount - product.amount * (discount / 100)) / 12);
 
