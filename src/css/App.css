@@ -1,0 +1,26 @@
+@import "fonts/style.css";
+.App{
+  max-width: 900px;
+  margin: auto;
+}
+.toggle{
+  cursor: pointer;
+  font-size: 18px;
+  display: flex;
+  margin: 30px 10px ;
+  font-family: 'Futura PT Book';
+}
+.toggle span{
+  margin: 0 5px;
+}
+.flex{
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+@media only screen and (max-width: 600px) {
+
+  .flex{
+
+    grid-template-columns: 100%;
+  }
+}

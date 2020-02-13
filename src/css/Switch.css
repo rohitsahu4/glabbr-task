@@ -1,0 +1,32 @@
+.switch-container{
+    height: 20px;
+    width: 40px;
+    background-color: grey;
+    border-radius: 10px;
+    transition:all 500ms ;
+}
+.switch-inner{
+    height: 16.5px;
+    width: 16.5px;
+    border-radius: 50%;
+    position: relative;
+    top:1.5px;
+    background-color: white;
+    transition:all 200ms ease ;
+}
+.on{
+    background-color: #7FC466;
+}
+.on .switch-inner{
+    transform: translateX(20px);
+}
+.off .switch-inner{
+    transform: translateX(3px);
+}
+.shadow{
+    top:-15px;
+    transition-delay: 50ms;
+    background-color: white;
+    height: 16px;
+    width: 16px;
+}
