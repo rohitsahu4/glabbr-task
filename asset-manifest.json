@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/glabbr-task/static/css/main.9946af78.chunk.css",
+    "main.js": "/glabbr-task/static/js/main.2ba9ec22.chunk.js",
+    "main.js.map": "/glabbr-task/static/js/main.2ba9ec22.chunk.js.map",
+    "runtime-main.js": "/glabbr-task/static/js/runtime-main.0a3cf0f3.js",
+    "runtime-main.js.map": "/glabbr-task/static/js/runtime-main.0a3cf0f3.js.map",
+    "static/js/2.b2f84329.chunk.js": "/glabbr-task/static/js/2.b2f84329.chunk.js",
+    "static/js/2.b2f84329.chunk.js.map": "/glabbr-task/static/js/2.b2f84329.chunk.js.map",
+    "index.html": "/glabbr-task/index.html",
+    "precache-manifest.3f88068ca631c2d1224773114ceb0233.js": "/glabbr-task/precache-manifest.3f88068ca631c2d1224773114ceb0233.js",
+    "service-worker.js": "/glabbr-task/service-worker.js",
+    "static/css/main.9946af78.chunk.css.map": "/glabbr-task/static/css/main.9946af78.chunk.css.map",
+    "static/js/2.b2f84329.chunk.js.LICENSE.txt": "/glabbr-task/static/js/2.b2f84329.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/glabbr-task/static/media/futura-pt-book-589a6dec272c3.3a3dd420.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a3cf0f3.js",
+    "static/js/2.b2f84329.chunk.js",
+    "static/css/main.9946af78.chunk.css",
+    "static/js/main.2ba9ec22.chunk.js"
+  ]
+}
