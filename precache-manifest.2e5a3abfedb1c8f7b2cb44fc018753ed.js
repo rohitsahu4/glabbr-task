@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "615a31703469b5d7cd88f0c9ee00def4",
+    "revision": "167387948ae5725980ea24b1a6408cd7",
     "url": "/glabbr-task/index.html"
   },
   {
-    "revision": "fbfad68e1f5cac967583",
-    "url": "/glabbr-task/static/css/main.9946af78.chunk.css"
+    "revision": "6fab1d6710ba15b5c334",
+    "url": "/glabbr-task/static/css/main.dc7a3280.chunk.css"
   },
   {
-    "revision": "ab6ea8301225a99851d4",
-    "url": "/glabbr-task/static/js/2.b2f84329.chunk.js"
+    "revision": "7b98aec74741dc731a01",
+    "url": "/glabbr-task/static/js/2.196e5d28.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/glabbr-task/static/js/2.b2f84329.chunk.js.LICENSE.txt"
+    "url": "/glabbr-task/static/js/2.196e5d28.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fbfad68e1f5cac967583",
-    "url": "/glabbr-task/static/js/main.d9fa8c99.chunk.js"
+    "revision": "6fab1d6710ba15b5c334",
+    "url": "/glabbr-task/static/js/main.a2ca4f7c.chunk.js"
   },
   {
     "revision": "a38b8dc8f0b429d4ee1d",
