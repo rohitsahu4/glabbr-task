@@ -7,6 +7,15 @@
     color: rgb(99, 94, 105);
     font-family: "Segoe UI Regular";
 }
+.product:hover{
+    transition: all .4s ease;
+    transform: scale(1.05) translateY(-4px);
+    cursor: pointer;
+}
+.product-pushed{
+
+    transform: scale(1.0) translateY(0) !important;
+}
 .img{
     width: 37px;
     height: 37px;

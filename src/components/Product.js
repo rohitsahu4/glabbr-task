@@ -1,13 +1,21 @@
-import React from "react"
+import React, {useState} from "react"
 import "../css/Product.css"
 import Features from "./Features"
 import AtomIcon from "./AtomIcon"
-export default function ({product, discount}) {
+export default function ({product, discount, onClick,...props}) {
+    console.log(props)
     //Calculating the final monthly price with discount
+    const [pushed,setPushed] = useState(false);
     const price = Math.round((product.amount - product.amount * (discount / 100)) / 12);
-
+const handleClick = ()=>{
+    onClick();
+    setPushed(true);
+    setTimeout(()=>{
+        setPushed(false);
+    },400)
+};
     return (
-        <div className={"product"}>
+        <div {...props} className={ "product" + (pushed ?" product-pushed":"")} onClick={handleClick} >
             <AtomIcon planName={product.planName}/>
             <h3 className={product.planName}><strong>{product.planName}</strong>
             </h3>
